@@ -1,4 +1,4 @@
 # DeepNeuralNetworks
 
-Anaconda Spyder üzerinde geliştirmiş olduğum bu projede Opencv , Keras , Pandas ve Numpy kütüphaneleri ile birlikte OpenCv DNN modülü kullanılarak ' heart.csv ' veri seti üzerinde Precision,Recall,F1-Score,Support ve Accuracy değerleri ile beraber veri setini eğittikten sonra test ettiğim bir makine öğrenmesi projesidir.
+In this project that I developed on Python, it is a machine learning project where I found Precision, Recall, F1-Score, Support and Accuracy values on the heart.csv dataset using the DNN module together with the Opencv, Keras, Pandas and Numpy libraries.
 
